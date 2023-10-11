@@ -14,7 +14,7 @@ Esta é uma implementação de uma calculadora inspirada na calculadora do iPhon
 
 Para executar a Calculadora, siga os passos abaixo:
 
-1. Ative o ambiente virtual (recomendado):
+1. Crie e ative o ambiente virtual (recomendado):
 
    ```bash
    python3 -m venv .venv
